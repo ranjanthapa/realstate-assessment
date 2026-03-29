@@ -194,3 +194,17 @@ npm run seed
 ```
 
 Seeds the database with sample properties for testing.
+
+
+
+### Home page
+![alt text](image.png)
+
+### Pop up login card and signup card
+
+
+![alt text](image-1.png)![alt text](image-2.png)
+
+
+### property added to fav
+![alt text](image-3.png)
